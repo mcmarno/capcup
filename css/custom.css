@@ -453,7 +453,7 @@ a:focus{
 	top: 0px;
 	left: 0;
 	width: 100%;
-	background: #000 url(../images/img.png) no-repeat right bottom;
+	background: #000 url(../images/img.PNG) no-repeat right bottom;
 	padding: 240px 0 160px;
 }
 
@@ -500,7 +500,7 @@ a:focus{
 }
 
 .history{
-	background: url(../images/capcup.png) no-repeat bottom center;
+	background: url(../images/capcup.PNG) no-repeat bottom center;
 	background-size: cover;
 }
 
